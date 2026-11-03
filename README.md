@@ -2,6 +2,8 @@
 
 简洁、适配手机的客服聊天页面，连接你自己的 Dify Chatflow。支持快捷提问、连续追问、新建会话、复制回答、等待状态与失败重试。
 
+**[在线体验小知客服](https://transition-aaa-lexmark-affairs.trycloudflare.com)**（临时地址，需要维护者的电脑、Docker 与分享进程保持运行；分享进程重启后地址会变化。）
+
 前端和代理使用 Node.js 原生模块，没有额外 npm 运行依赖。Dify API 密钥只在服务端使用；访客使用独立的匿名会话。
 
 ## 本地运行
